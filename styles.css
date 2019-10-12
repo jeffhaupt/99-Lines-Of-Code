@@ -1,0 +1,34 @@
+/* Reset browser margins */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+
+body {
+  background: #036;
+  font-family: 'Roboto', sans-serif;
+  color: #cc9;
+}
+
+h1 {
+    color: #fff;
+    padding: .5em .3em;
+}
+
+.friend {
+  background-color: #ccc;
+  color: #036;
+  margin: 1em 0;
+  padding: 1em 0;
+}
+
+.friend h3 {
+  text-transform: uppercase;
+  padding: .4em 0 .4em .4em;
+}
+
+.friend p {
+  padding: .4em 0 .4em .4em;
+}
